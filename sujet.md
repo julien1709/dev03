@@ -15,7 +15,7 @@ Objectifs / conseils:
 ## 1 - Lecture du fichier CSV
 
 - Lire la première ligne du fichier et mémoriser les positions et les libellés des champs
-- afficher les informations précédées du libellé du champ pour les 3 premiers enregistrements
+- Afficher les informations précédées du libellé du champ pour les 3 premiers enregistrements
 - Sauter une ligne entre chaque enregistrement
 - Déterminer la taille de la plus grande ligne du fichier
 - Déterminer la taille maximum nécessaire par champ
